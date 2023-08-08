@@ -5,3 +5,6 @@ Maven
 Nexus
 Sonarqube
 Tomcat
+Kubernetes
+ansible
+terraform
