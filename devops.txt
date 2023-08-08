@@ -2,3 +2,6 @@ Prerequisites:
 Linux and Shell
 Git and GitHub
 Maven
+Nexus
+Sonarqube
+Tomcat
