@@ -1,5 +1,6 @@
 Prerequisites: 
 Linux and Shell
+Networking Basics
 Git and GitHub
 Maven
 Nexus
