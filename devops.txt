@@ -1,0 +1,4 @@
+Prerequisites: 
+Linux and Shell
+Git and GitHub
+Maven
